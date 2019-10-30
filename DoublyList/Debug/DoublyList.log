@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\user\source\repos\doublylist\doublylist\main.c(12): warning C4133: '=': 'DoublyListNode *'과(와) 'DoublyList *' 사이의 형식이 호환되지 않습니다.
+  DoublyList.vcxproj -> C:\Users\user\source\repos\DoublyList\Debug\DoublyList.exe
